@@ -1,4 +1,4 @@
-# Power-Bi-Dashboards
+# Power-Bi-projects
 
 putting my project works
 
